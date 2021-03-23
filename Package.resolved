@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Bech32",
+        "repositoryURL": "https://github.com/0xDEADP00L/Bech32.git",
+        "state": {
+          "branch": null,
+          "revision": "e5e1353b7840dc19d10e023fe1b784cd5469ca8a",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "libbase58",
+        "repositoryURL": "https://github.com/keeshux/libbase58.git",
+        "state": {
+          "branch": "master",
+          "revision": "be04b103ac8fbcbfb70168febd8ca15b51e129d9",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "5d66f7ba25daf4f94100e7022febf3c75e37a6c7",
+          "version": "1.4.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
